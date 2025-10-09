@@ -1,0 +1,19 @@
+{
+
+    "autoload" :{
+        "psr-4": {
+            "a\\" : "A",
+            "app\\" : "app",
+            "securite\\Tokens\\" : "Token"
+        }    
+    },
+    "name": "a/framework",
+    "description": "a",
+    "type": "project",
+    "license": "Apache-2.0",
+    "minimum-stability": "alpha",
+    "require": {
+        "firebase/php-jwt": "^6.11",
+        "smarty/smarty": "^4.0"
+    }
+}

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Dashboard</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="dashboard">
+    <h1>Bem-vindo à API!</h1>
+    <button href="index\index.php">entrar</button>
+    <p id="tokenDisplay"></p>
+    <button onclick="logout()">Sair</button>
+  </div>
+
+  <script>
+    const token = localStorage.getItem('authToken');
+    if (!token) {
+      window.location.href = "index.html";
+    } else {
+      document.getElementById("tokenDisplay").innerText = `Token: ${token}`;
+    }
+
+    function logout() {
+      localStorage.removeItem('authToken');
+      window.location.href = "index.html";
+    }
+  </script>
+</body>
+</html>

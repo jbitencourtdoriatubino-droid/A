@@ -1,0 +1,10 @@
+# Ativa o mod_rewrite (deve estar habilitado no Apache)
+RewriteEngine On
+
+# Redireciona todas as requisições para index.php (URLs amigáveis)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php [QSA,L]
+
+# Define o charset padrão
+AddDefaultCharset UTF-8
