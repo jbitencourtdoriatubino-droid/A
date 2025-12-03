@@ -22,4 +22,4 @@
 1 the use that framework for
 - what wantend make back-end projects
 - you'll can make distrus, the your personal framework php
-- and api, the origanl propolse
+- and api, the original purpose
