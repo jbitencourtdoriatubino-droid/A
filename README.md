@@ -10,7 +10,7 @@
 1 📎 the original project 
 - was for one simple api in pure php
 - creatend one api in php, but not usend a framework php
-- and creatend to be simple visisualisytion the arquecture of project
+- and creatend to be simple visisualisytion the archicture of project
 - and exercisend i'm from what i know of the php
 
 2 📎 the initelizy
@@ -26,3 +26,7 @@
 - you'll can make distrus, the your personal framework php
 - and apis, the original purpose
 - and the whatever you want make
+
+## 🏸 architure
+being a purpose incomplete framework, when you'll learnig the php
+usend that tool for your learnig more capecite in progaming logic in php and creating back-end and full-stack projects
