@@ -16,3 +16,6 @@
 - i'll did make the api, but
 - i don't knew it
 - i made a desing for arquecture of a framework php
+
+## 🧰 how usend that ?
+1 
