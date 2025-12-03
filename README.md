@@ -13,6 +13,6 @@
 
 2 📎 the initelize
 - witch the developing the api i don't see a have made this
-- i'll did make de api, but
+- i'll did make the api, but
 - i don't knew it
-- i can be make the arquecture of the framework php
+- i can make the arquecture of the framework php
