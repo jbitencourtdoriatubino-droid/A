@@ -3,6 +3,7 @@
 ### A the free framework to be creating your self framework php!!
 
 ##📖 the history
+
 1 📎 the original project was for one simple api in pure php
 - creatend one api in php, but not usend a framework php
-- creatend the visisual this project to be simple visisualisytion the your arquect
+- and creatend the visisual this project to be simple visisualisytion the your arquect
