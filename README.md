@@ -40,4 +40,4 @@ then the your make project you have one archicture witch that organization
       . models of data in database,and etc.
   - entitys
 ### 2 connections :
-  your name explaing him, he're file of conection and relation wich the database and the organization of the foutes when he continue runing when use usend wich clients
+  your name explaing him, he're file of conection and relation wich the database and one file the organization of the routes when he continue runing when is usend wich clients
