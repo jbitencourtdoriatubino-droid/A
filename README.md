@@ -15,4 +15,4 @@
 - witch developing the api, i don't see i have made this
 - i'll did make the api, but
 - i don't knew it
-- i made the arquecture of the one framework php
+- i made the arquecture the one framework php
