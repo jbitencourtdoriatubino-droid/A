@@ -20,6 +20,6 @@
 ## 🧰 how use that ?
 
 1 the use that framework for
-- wantend make back-end projects
-- you'll can make distrus, the your framework php
-- 
+- what wantend make back-end projects
+- you'll can make distrus, the your personal framework php
+- and api, the origanl propolse
