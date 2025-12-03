@@ -10,3 +10,9 @@
 - creatend one api in php, but not usend a framework php
 - and creatend to be simple visisualisytion the arquecture of project
 - and exercisend i'm from what i know of the php
+
+2 📎 the initelize
+- witch the developing the api i don't see a have made this
+- i'll did make de api, but
+- i don't knew it
+- i can be make the arquecture of the framework php
