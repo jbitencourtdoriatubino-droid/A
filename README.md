@@ -14,7 +14,7 @@
 - and exercisend i'm from what i know of the php
 
 2 📎 the initelizy
-- witch developing the api, i don't see i have made this
+- wich developing the api, i don't see i have made this
 - i'll did make the api, but
 - i don't knew it
 - i made a desing for arquecture of a framework php
@@ -32,8 +32,8 @@ being a purpose incomplete framework, when you'll learnig the php
 usend that tool for your learnig more capecite in programing logic in php and creating back-end and full-stack projects,
 then the your make project you have one archicture witch that organization
 #### 1 app:
-  you usend that for logic project use tool of the php to be creat the work and functional result
-  witch pises the
+  you usend that for project and use tools of the php to be creat the work and functional result
+  wich pises the
   - classes
   - models
   - entitys
