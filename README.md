@@ -17,5 +17,5 @@
 - i don't knew it
 - i made a desing for arquecture of a framework php
 
-## 🧰 how usend that ?
+## 🧰 how use that ?
 1 
