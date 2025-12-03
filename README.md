@@ -2,9 +2,10 @@
 
 ### A the free framework to be creating your self framework php!!
 
-##📖 the history
+
+## 📖 the history
 
 1 📎 the original project was for one simple api in pure php
 - creatend one api in php, but not usend a framework php
 - and creatend to be simple visisualisytion the arquecture of project
-- and exercise from what i know the php
+- and exercisend i'm from what i know the php
