@@ -29,4 +29,5 @@
 
 ## 🏸 architure
 being a purpose incomplete framework, when you'll learnig the php
-usend that tool for your learnig more capecite in progaming logic in php and creating back-end and full-stack projects
+usend that tool for your learnig more capecite in programing logic in php and creating back-end and full-stack projects,
+then the your make project you have one archicture witch that organization
