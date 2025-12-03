@@ -11,8 +11,8 @@
 - and creatend to be simple visisualisytion the arquecture of project
 - and exercisend i'm from what i know of the php
 
-2 📎 the initelize
-- witch the developing the api, i'm don't see a have made this
+2 📎 the initelizy
+- wich the developing the api, i'm don't saw a have made this
 - i'll did make the api, but
 - i don't knew it
 - i make the arquecture of the framework php
