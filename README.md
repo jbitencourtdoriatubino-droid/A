@@ -12,7 +12,7 @@
 - and exercisend i'm from what i know of the php
 
 2 📎 the initelizy
-- wich the developing the api, i don't see i have made this
+- witch developing the api, i don't see i have made this
 - i'll did make the api, but
 - i don't knew it
-- i made the arquecture of the framework php
+- i made the arquecture of the one framework php
