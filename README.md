@@ -18,7 +18,7 @@
 - i don't knew it
 - i made a desing for arquecture of a framework php
 
-## 👷‍♂️ how use that ?
+## 👷 how use that ?
 
 1 the use that framework for
 - what wantend make back-end projects
