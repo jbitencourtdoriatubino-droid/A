@@ -27,13 +27,17 @@
 - and apis, the original purpose
 - and the whatever you want make
 
-## 🏸 architure
+# 🏸 architure
 being a purpose incomplete framework, when you'll learnig the php
 usend that tool for your learnig more capecite in programing logic in php and creating back-end and full-stack projects,
 then the your make project you have one archicture witch that organization
-#### 1 app:
+### 1 app:
   you usend that for project and use tools of the php to be creat the work, and functional result,
-  with type parts
+  with types of pieces 
   - classes
+      . http work database manipulation
   - models
+      . models of data in database,and etc.
   - entitys
+### 2 connections :
+  your name explaing him, he're file of conection and relation wich the database and the organization of the foutes when he continue runing when use usend wich clients
