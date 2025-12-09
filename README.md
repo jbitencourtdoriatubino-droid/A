@@ -23,11 +23,11 @@
 
 1 the use that framework for
 - what wantend make back-end projects
-- you'll can make distrus, the your personal framework php
+- you'll can make distru, the your personal framework php
 - and apis, the original purpose
 - and the whatever you want make
 
-# 🏸 architure
+# 🔎 architure
 being a purpose incomplete framework, when you'll learnig the php
 usend that tool for your learnig more capecite in programing logic in php and creating back-end and full-stack projects,
 then the your make project you have one archicture witch that organization
@@ -57,3 +57,5 @@ then the your make project you have one archicture witch that organization
   - router
 
   - is the file for use in the configration of the routes in the index and the organization from the project
+### 3 public:
+is the folder what interact wich clinte where visual the front-end for usend in relation in back-end wich front-end
