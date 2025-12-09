@@ -43,9 +43,12 @@ then the your make project you have one archicture witch that organization
   your name explaing him, he're file of conection and relation wich the database and one file the organization of the routes when he continue runing, and use wich clients,
   your pieces is;
   - env folder
+    
       . is the folder wich the file most import from file connections.
     -env file
-      . is the file wich keys and more deteils of the configuration to be function.
+    
+      . is the file wich keys and more details of the configuration of our function.
     -php env file -> env.php
+    
       . is the file for usend keys from the env file to use in very function of connection and etc.
   
